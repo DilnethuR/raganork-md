@@ -64,7 +64,6 @@ let sr = (await searchYT(match[1])).videos[0];
   });
 });
 }));
-/*
 
 IN CASE IF BUTTONS TO COME BACK!
 
